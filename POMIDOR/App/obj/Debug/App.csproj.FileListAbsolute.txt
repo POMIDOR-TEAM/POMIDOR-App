@@ -7,3 +7,13 @@ D:\denisJava\java\POMIDOR-App\POMIDOR\App\obj\Debug\App.csproj.GenerateResource.
 D:\denisJava\java\POMIDOR-App\POMIDOR\App\obj\Debug\App.csproj.CoreCompileInputs.cache
 D:\denisJava\java\POMIDOR-App\POMIDOR\App\obj\Debug\App.exe
 D:\denisJava\java\POMIDOR-App\POMIDOR\App\obj\Debug\App.pdb
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\bin\Debug\App.exe.config
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\bin\Debug\App.exe
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\bin\Debug\App.pdb
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.Form1.resources
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.Properties.Resources.resources
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.exe
+C:\bloodrain121\GitHub Repositories\POMIDOR-App\POMIDOR\App\obj\Debug\App.pdb
